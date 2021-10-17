@@ -1,0 +1,3 @@
+type AppUser = {
+  name: string;
+};
